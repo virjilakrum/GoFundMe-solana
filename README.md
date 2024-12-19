@@ -1,8 +1,6 @@
-# Tesseract
+# GoFundMe-Solana
 
 A next-generation Web3 donation matching platform powered by Solana and USDC, enabling transparent and automated donation matching campaigns.
-
-![preview](https://github.com/user-attachments/assets/27951334-afc1-4606-a302-7719a2bfe90b)
 
 
 ## Features
@@ -45,7 +43,7 @@ A next-generation Web3 donation matching platform powered by Solana and USDC, en
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/tesseract.git
+git clone https://github.com/yourusername/GoFundMe-Solana.git
 cd tesseract
 ```
 
@@ -126,11 +124,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Uses [CandyPay](https://docs.candypay.fun/) for payment processing
 - Community contributions and feedback
 
-## Contact
-
-- Website: [tesseract.com](https://tesseract.com)
-- Twitter: [@TesseractDonate](https://twitter.com/TesseractDonate)
-- Email: hello@tesseract.com
 
 ---
 
